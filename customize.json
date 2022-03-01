@@ -1,8 +1,8 @@
 {
-  "greeting": "Heya!",
+  "greeting": "Hey!",
   "name": "Anjali",
   "greetingText": "I never mentioned it often but I really like your name!",
-  "wishText": "I hope you always stay smily and cute;)",
+  "wishText": "I hope you always stay smiley and cute (and smarty-pants too);)",
   "imagePath": "img/anjali.png",
   "text1": "It's your 21st birthday!!! :D",
   "textInChatBox": "Happiest birthday cutieee!! Yeee! Many many happy blah...",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happiest Birthday Anjali!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
+  "outroText": "Okay, Whatsapp me back to tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
