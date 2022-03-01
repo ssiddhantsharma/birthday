@@ -1,7 +1,7 @@
 {
   "greeting": "Hey!",
   "name": "Anjali",
-  "greetingText": "I never mentioned it often but I really like your name!",
+  "greetingText": "Maine kabhi zyada kaha nahi but I really like your name!",
   "wishText": "I hope you always stay smiley and cute (and smarty-pants too);)",
   "imagePath": "img/anjali.jpeg",
   "text1": "It's your 21st birthday!!! :D",
@@ -12,12 +12,12 @@
   "text4": "I realised, I wanted to do something...",
   "text4Adjective": "special",
   "text5Entry": "Because,",
-  "text5Content": "You are special, hehe!",
+  "text5Content": "You are special, hehe",
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happiest Birthday Anjali!",
-  "outroText": "Okay, Whatsapp me back to tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "Yaar ye thode busy weeks mei bss itna hee suprise plan ho paaya, would've loved to make a video :(",
+  "replayText": "Click here, if you want to watch it again.",
   "outroSmiley": ":)"
 }
